@@ -1,0 +1,2 @@
+can sinup with email and password
+can signup with mobile and password
